@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nome": "Restaurante Sabor Bom",
+    "categoria": "restaurante",
+    "lat": -23.5629,
+    "lng": -46.6544
+  },
+  {
+    "id": 2,
+    "nome": "Farmácia Popular",
+    "categoria": "farmacia",
+    "lat": -23.5610,
+    "lng": -46.6572
+  }
+]
